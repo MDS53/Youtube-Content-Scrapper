@@ -368,6 +368,8 @@ def page3():
     API_KEY = 'AIzaSyBIgjXBxYaWBgproZi0ZPZJtRMFg_7W2aw'
     A=Channel_Full_Info(API_KEY,st.session_state.url)
     print(A)
+    st.title("   ")
+    st.title("Playlists info")
     C=Playlist_full_info(API_KEY,st.session_state.url)
     print(C)
 
