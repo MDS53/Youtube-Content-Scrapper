@@ -30,3 +30,8 @@ Youtube-Content-Scrapper will take any youtube video url as input and scraps and
   - Author's Country 
   - Channel keywords
   - All playlist names in the channel and  number of videos of individual playlists with url of that playlist
+
+Demo 👇👇
+
+https://github.com/MDS53/Youtube-Content-Scrapper/assets/82602774/db219d18-5bf1-461b-b4e2-65acac847fb7
+
