@@ -8,15 +8,7 @@ A YouTube Content Scraper is a powerful tool designed to extract valuable inform
 Youtube-Content-Scrapper will take any youtube video url as input and scraps and will be displayed the following content
 - Video Details:
 
-  - Video Title
-  - Channel name
-  - Video_views
-  - Video likes
-  - Video Dislikes
-  - Video Comments (Total no of comments)
-  - Video thumbnail
-  - Video Description
-  - Video Duration (in mins)
+   Video Title,Channel name,Video_views,Video likes,Video Dislikes,Video Comments (Total no of comments),Video thumbnail,Video Description,Video Duration (in mins)
     
 - Channel Details:
 
